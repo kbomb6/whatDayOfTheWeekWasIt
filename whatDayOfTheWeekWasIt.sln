@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whatDayOfTheWeekWasIt", "whatDayOfTheWeekWasIt\whatDayOfTheWeekWasIt.csproj", "{1ED00E7E-F3CD-4D81-AD99-742FCA36331F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED00E7E-F3CD-4D81-AD99-742FCA36331F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED00E7E-F3CD-4D81-AD99-742FCA36331F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED00E7E-F3CD-4D81-AD99-742FCA36331F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED00E7E-F3CD-4D81-AD99-742FCA36331F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
